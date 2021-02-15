@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hello Goodbye</string>
+    <string name="hello_world">Hello world</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="exclaim_btn">Exclamation</string>
+
+    <string name="Hello">Hello</string>
+    <string name="Goodbye">Goodbye</string>
+
+    <string name="exclaim_img"> Exclamation image</string>
+a
+</resources>
